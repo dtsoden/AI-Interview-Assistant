@@ -10,7 +10,7 @@
 - Select the only policy called "Authorization" and edit the line that says "Header value *" and paste in your OpenAI key with Bearer "SK-***your_key***"  
 - Update the connector
 
-### Notes
+### DO NOT MISS THIS STEP
 - When editing the canvas app the 1st time you likely will have to add in the custom connector "Custom_OpenAI" to the app. I do not knnow why it does this, but it will show lots of errors if you miss this step and the app won't work without it
 
 ![image info](./AIA_Glow.png)
