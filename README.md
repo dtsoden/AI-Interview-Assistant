@@ -1,5 +1,5 @@
 # AI-Interview-Assistant
-[Visit Our Website](https://aiinterviewassistant.com)   |  [Download the Power Platform Solution File](./InterviewAIAssistant_2_0_0_5.zip)
+[Visit Our Website](https://aiinterviewassistant.com)   |  [Download the Power Platform Solution File](https://raw.githubusercontent.com/dtsoden/AI-Interview-Assistant/main/InterviewAIAssistant_2_0_0_5.zip)
 
 
 
