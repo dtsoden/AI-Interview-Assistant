@@ -2,9 +2,9 @@
 [Visit Our Website](https://aiinterviewassistant.com)   
 
 ## Downloads
-[Download the Excel PCF component 1st](https://github.com/dtsoden/dtsoden-AI-Interview-Assistant/raw/main/BTDExportExcel_1_0_0_1.zip)  
-[Download the Power Platform Solution File](https://github.com/dtsoden/dtsoden-AI-Interview-Assistant/raw/main/InterviewAIAssistant.zip)  
-[Optionally download the Power BI Report](https://github.com/dtsoden/dtsoden-AI-Interview-Assistant/raw/main/AIA%20Taxonomy%20Report.pbix)
+[Download the Excel PCF component 1st](https://github.com/dtsoden/AI-Interview-Assistant/raw/main/BTDExportExcel_1_0_0_1.zip)  
+[Download the Power Platform Solution File](https://github.com/dtsoden/AI-Interview-Assistant/raw/main/InterviewAIAssistant.zip)  
+[Optionally download the Power BI Report](https://github.com/dtsoden/AI-Interview-Assistant/raw/main/AIA%20Taxonomy%20Report.pbix)
 
 
 ## Setup Instructions
