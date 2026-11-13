@@ -1,5 +1,4 @@
 # AI-Interview-Assistant 5.0
-[Visit Our Website](https://aiinterviewassistant.com)   
 
 ## Downloads
 [Download the Excel PCF component 1st](https://github.com/dtsoden/AI-Interview-Assistant/raw/main/BTDExportExcel_1_0_0_1.zip)  
